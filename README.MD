@@ -1,1 +1,1 @@
-An app in which I try out different tools.
+A journaling app with the purpose of being tested with different tools.
